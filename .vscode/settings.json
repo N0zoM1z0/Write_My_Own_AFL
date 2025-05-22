@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "test_llvm_instrument": "cpp"
+    }
+}

@@ -1,0 +1,1 @@
+clang++ test_llvm.cpp `llvm-config --cxxflags --ldflags --system-libs --libs all` -o test_llvm
